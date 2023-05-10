@@ -1,0 +1,14 @@
+{
+    "id": "C001",
+    "name": "Kasun Sampath",
+    "address": {
+        "no": 15,
+        "street": "Grace Peries Road",
+        "city": "Panadura"
+    },
+    "age": 17,
+    "contacts": [
+        "077-12345678",
+        "022-12345677"
+    ]
+}

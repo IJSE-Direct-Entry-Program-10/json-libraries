@@ -1,0 +1,17 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Kasun",
+    "address": "Galle"
+  },
+  {
+    "customer_id": 2,
+    "name": "Nuwan",
+    "address": "Rathanpura"
+  },
+  {
+    "customer_id": 3,
+    "name": "Supun",
+    "address": "Galle"
+  }
+]

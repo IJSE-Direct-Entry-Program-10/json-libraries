@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": 1,
+        "name": "Kasun Sampath",
+        "contacts": [
+            "077-1234567",
+            "055-1234567"
+        ]
+    },
+    {
+        "student_id": 2,
+        "name": "Nuwan Ramindu",
+        "contacts": [
+            "078-1234567",
+            "055-1234567"
+        ]
+    },
+    {
+        "student_id": 3,
+        "name": "Ruwan Rathanayke",
+        "contacts": [
+            "078-1234567",
+            "055-1234567"
+        ]
+    }
+]
